@@ -6,7 +6,7 @@ Am Oluwaseun Emmanuel by name, a R Programmer, Data Analyst, Business Analyst, a
 - 🌱 I’m currently on R Programmer Career Track on DataCamp learning platform.
 - 👯 I’m looking to collaborate on anything that involves data or business analysis / analytics and projects.
 - 🤔 I’m looking for help with in breaking technical concepts and learning projects.
-- 💬 Ask me about my learning journey
+- 💬 You can ask me about my learning journey and my business.
 - 📫 How to reach me: https://www.linkedin.com/in/oluwaseun-252053115
 - 😄 Pronouns: (He/Him/His)
 - ⚡ Fun fact: I love coding, playing games, hearing Podcast about Data, watching movies and reading.
