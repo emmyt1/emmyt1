@@ -1,7 +1,7 @@
 
 ### Hello there 👋
 
-Welcome to my GitHub profile! I'm Oluwaseun Emmanuel Olubunmi, a skilled R Programmer, Data Analyst, Business Analyst, Data Scientist, and Entrepreneur.
+Welcome to my GitHub profile! I'm Oluwaseun Emmanuel Olubunmi, a skilled R and Python Programmer, Data Analyst, Business Analyst, Data Scientist, and Entrepreneur.
 
 #### 🚀 Currently
 
