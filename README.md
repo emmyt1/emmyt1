@@ -29,6 +29,7 @@ I'm looking for guidance and mentorship to break down complex technical concepts
 
 You can reach me via:
 - LinkedIn: https://www.linkedin.com/in/ooluwaseun
+- WhatsApp: +2347066377948
 - Pronouns: He/Him/His
 
 #### ⚡ Fun Fact
